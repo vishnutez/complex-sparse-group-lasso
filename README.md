@@ -39,8 +39,6 @@ complex-sparse-group-lasso/
 ├── run_nmse_vs_snr.py     # Experiment: NMSE vs SNR, four algorithms compared
 ├── run_nmse_vs_iter.py    # Experiment: NMSE vs iteration, AMP vs ISTA at fixed SNR
 ├── environment.yaml       # Conda environment (Python 3.10, numpy, scipy, matplotlib)
-├── docs/
-│   └── 2026-06-15-clean-implementation-plan.md
 ├── LICENSE
 └── README.md
 ```
